@@ -1,16 +1,7 @@
 - 👋 Hi, I’m Salmane
 - 👀 I’m interested in:
-  - Frameworks 
-    - Spring Boot
-    - Laravel
-    - Flutter
-    - Angular
-  - Languages
-    - Java
-    - Kotlin
-    - PHP
-    - Python
-    - Typecript
+  - Frameworks (Spring Boot, Laravel, Flutter, Angular)
+  - Languages (Java, Kotlin, PHP, Python, Typecript)
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/salmane-tamo/ "Salmane's Linkedin") 
 
 <!---
